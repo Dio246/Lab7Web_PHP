@@ -132,4 +132,24 @@ Hasil yang Diharapkan & Aktual: Sistem menolak pengiriman data dan menampilkan s
 
 ## 7. Screenshot Pengerjaan dan Hasil Praktikum
 
-
+<img width="1366" height="768" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/319050af-f7f3-48a8-9ec3-07177c27b9a0" />
+<img width="1366" height="768" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/f399462a-7ebd-48da-a17b-87de21529fd0" />
+<img width="1366" height="768" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/8e5fb6f5-3e8a-49d3-9195-e17aeb07248a" />
+<img width="1366" height="768" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/5c6664b1-453f-43c5-8558-b82b6ba41503" />
+<img width="1366" height="768" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/a76ce01c-95d5-4e81-9959-12566d4d34df" />
+<img width="1366" height="768" alt="Screenshot (171)" src="https://github.com/user-attachments/assets/cd02ea6f-de64-43d5-969b-7cf6e5ffbb55" />
+<img width="1366" height="768" alt="Screenshot (170)" src="https://github.com/user-attachments/assets/ecc21b05-d2d2-4f9b-9412-f320439a8b6b" />
+<img width="1366" height="768" alt="Screenshot (169)" src="https://github.com/user-attachments/assets/7e5a4379-89d0-4223-ac11-a5072a38df5f" />
+<img width="1366" height="768" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/b9e052a8-d5a6-40fc-9420-93b24af19b4b" />
+<img width="1366" height="768" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/cc3f0620-fa15-4ed9-a540-946eaf7fd4b1" />
+<img width="1366" height="768" alt="Screenshot (167) - Copy" src="https://github.com/user-attachments/assets/7b0cce44-dff8-45b4-892a-0df073c22448" />
+<img width="1366" height="768" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/ec1e6fb0-a6db-482b-8ca5-986f46e58de6" />
+<img width="1366" height="768" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/30965bdd-3836-42a6-8e96-a9cb2388e1f8" />
+<img width="1366" height="768" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/0aa59f1c-af6c-4c66-aa14-ec62d71f1c9d" />
+<img width="1366" height="768" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/880345ec-5b48-4e56-bd5c-a6e500fdda3d" />
+<img width="1366" height="768" alt="Screenshot (159)" src="https://github.com/user-attachments/assets/09efa295-aa41-4c3a-9b85-cf9f29086d88" />
+<img width="1366" height="768" alt="Screenshot (158)" src="https://github.com/user-attachments/assets/e509a40c-ca56-4638-94e3-189eff4a8bf1" />
+<img width="1366" height="768" alt="Screenshot (157)" src="https://github.com/user-attachments/assets/ea5558f5-c332-40ff-b89a-e6c6d4973fdf" />
+<img width="1366" height="768" alt="Screenshot (156)" src="https://github.com/user-attachments/assets/06137ee7-291c-4a81-8eac-bcf3480dd189" />
+<img width="1366" height="768" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/d3b0bcaf-16d4-4d68-beaa-66cb45da150c" />
+<img width="1366" height="768" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/d1809b8f-60b6-4074-8599-329fbebe7f7f" />
