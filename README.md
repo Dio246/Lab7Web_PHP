@@ -36,7 +36,6 @@
 ---
 
 ## 4. Struktur File
-```text
 Lab7Web_PHP/
 ├── index.php                                       # Latihan dasar PHP, fungsi hitung luas, rata-rata nilai, format Rupiah, & pencarian GET
 ├── miniproject/
@@ -45,7 +44,7 @@ Lab7Web_PHP/
 ├── Jawaban_Evaluasi_Praktikum7_Dio_Surya_Pratama.pdf # Dokumen jawaban pertanyaan evaluasi praktikum
 └── README.md                                       # Dokumentasi laporan praktikum
 
-## 4. Ringkasan Hasil
+## 5. Ringkasan Hasil
 Latihan Pemrograman PHP Dasar (index.php): Berhasil mengeksekusi skrip PHP pada server lokal untuk menampilkan teks dinamis, waktu server, perhitungan nilai rata-rata dari tiga komponen (Tugas, UTS, UAS) beserta predikat kelulusannya, iterasi data array mahasiswa, fitur pencarian nama pada array menggunakan parameter URL (GET), serta pembuatan function kustom hitungLuasPersegiPanjang() dan formatRupiah().
 
 Mini Project Formulir Data Mahasiswa (form_mahasiswa.php): Berhasil membangun aplikasi formulir berbasis metode POST dengan memisahkan blok logika pemrosesan PHP di bagian atas dari struktur antarmuka HTML. Sistem memvalidasi kelengkapan seluruh kolom, memastikan NIM terdiri dari 9 digit angka, mengecek rentang semester (1–14), memverifikasi format email, menyediakan tombol Reset di sisi klien, serta menampilkan kembali ringkasan data secara aman menggunakan htmlspecialchars().
@@ -124,4 +123,4 @@ Hasil yang Diharapkan & Aktual: Sistem menolak pengiriman data dan menampilkan s
 "Format email tidak valid."
 
 "Semester harus berupa angka 1–14."
-
+```text
