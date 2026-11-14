@@ -130,6 +130,9 @@ Hasil yang Diharapkan & Aktual: Sistem menolak pengiriman data dan menampilkan s
 
 ---
 
-## 7. Screenshot Hasil Praktikum
+## 7. Screenshot Pengerjaan dan Hasil Praktikum
+
+
+
 
 
